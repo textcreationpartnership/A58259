@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered in justification of the action of letting a room in London-House unto certain peaceable Christians, called Anabaptists</title>
+         </titleStmt>
+         <extent>Approx. 22KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58259</idno><idno type="EEBO-CITATION">8206365</idno>
+  <idno type="VID">41090</idno>
+  <idno type="EEBO-PROQUEST">2264208421</idno>
+  
+            <idno type="STC">Wing R545</idno>
+            <idno type="STC">ESTC R24490</idno>
+            <idno type="OCLC">08206365</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58259)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41090)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1238:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered in justification of the action of letting a room in London-House unto certain peaceable Christians, called Anabaptists</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1642?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: Bottoms of p. 1 and 3 wanting.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Anabaptists --  England.</term>
+               <term type="geographic_name">London (England) --  Religion --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:41090:1"/>
+            <head>REASONS Humbly offered in Justification of the Action, of letting a Room in <hi>London</hi>-House unto certain peaceable Christians, called ANABAPTISTS.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Doubt not but very many will bear me witness, how much and often I appeared and gave my opi<g ref="char:EOLhyphen"/>nion (some years together by-past) for <hi>bearing</hi> and <hi>forbearing</hi> amongst Christians; <hi>and as</hi> for an Endeavor by <hi>all means</hi> to <hi>attain</hi> and <hi>maintain</hi> a holy <hi>Ʋnion</hi> and <hi>Communion in Spirit,</hi> and Christian Practise, <hi>(wherein how much rather would I be imployed then in any thing of more dividing tendency:)</hi>
+            </p>
+            <p>
+               <hi>So also</hi> in order <hi>unto,</hi> and as a small <hi>branch of</hi> the <hi>former,</hi> to give toleration (if I shall so call it) <hi>viz. Common priviledg,</hi> room and countenance <hi>unto all Christians</hi> and <hi>Societies</hi> that are of <hi>peaceable deportment,</hi> and that hold the <hi>Fundamentals</hi> of <hi>true</hi> Christian Religion, <hi>(and practise accordingly,) although erroneous in many things,</hi> but not for any countenance, no <hi>nor sufferance</hi> of <hi>error,</hi> only for <hi>necessity, lest we pluck up the good corn also,</hi> Mat. 13.</p>
+            <p>But my <hi>brethren</hi> of <hi>different opinions,</hi> then still urged me for a Rule, <hi>how far that toleration</hi> should <hi>extend;</hi> for <hi>said they,</hi> generals may be pretended to extend <hi>exceedingly too far:</hi> And al<g ref="char:EOLhyphen"/>though I thought not of making <hi>this</hi> the <hi>particular Case,</hi> when first it came in question, <hi>yet</hi> indeed seeing I know not that <hi>that</hi> question hath yet been determined <hi>amongst us,</hi> I apprehending my self <hi>bound</hi> both by <hi>Covenant,</hi> as by <hi>Baptism</hi> and <hi>Christian Profession;</hi> to seek and endeavor after <hi>Ʋnion with Brethren, in <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="2" facs="tcp:41090:2"/>Faith;</hi> seeing it <hi>now</hi> providentially is in question, <hi>I desire</hi> (con<g ref="char:EOLhyphen"/>ceiving it my Christian duty) to bring it to <hi>such a Result</hi> as may at least satisfie my self in my <hi>own spirit,</hi> if not also the spirits of others, in the point.</p>
+            <p>And conceivign this a very fit <hi>season</hi> and <hi>opportunity</hi> for the obtaining thereof; I <hi>humbly conceive</hi> I ought not to imbrace that <hi>(otherwise good)</hi> motion, which was made by, <hi>I suppose,</hi> a Lover of <hi>Peace,</hi> viz. <hi>to wave the question, and convert the Room,</hi> in que<g ref="char:EOLhyphen"/>stion, <hi>to other use,</hi> in accommodation with the spirits of <hi>brethren that take offence;</hi> which I suppose I shall make haste <hi>to do</hi> (to a<g ref="char:EOLhyphen"/>voyd the offence of the weak) <hi>if it shall be desired;</hi> when once the <hi>question</hi> is so <hi>stated</hi> and <hi>determined,</hi> That <hi>Gods precious Truth,</hi> and the <hi>Freedom</hi> of <hi>Christian Brethren,</hi> and <hi>Christian Practise,</hi> may not suffer thereby.</p>
+            <div type="part">
+               <head>REASONS humbly offered, &amp;c.</head>
+               <p>UPon the matter in question; <hi>Whether I</hi> (being admitted an Elder into the first Classis, usually meeting at the Black-Fry<g ref="char:EOLhyphen"/>ers, <hi>London) did not sin, and come under just reproof, in letting of a Room in London-House;</hi> which stood voyd, unimproved, and <hi>which I had the letting of, although for another Interest,</hi> and not in the least for my self.</p>
+               <p>
+                  <hi>Which Room,</hi> at the request, and for the accommodation of Mr <hi>Jesse,</hi> Mr <hi>Kissin,</hi> and others, whom I conceive to be truly godly, (but dissenting in the point of baptizing of Infants, and I suppose in the manner of Church-Government, <hi>and it may be in some others) I did let to Mr Tomlins for two moneths,</hi> with this condition, That it should be employed to no use but what was good and laudable, and without any annoyance; and if in the proof I should find any just exception, I might demand it at the two moneths end, or at any time give warning, and within such a time it should be surrendred.</p>
+               <p>
+                  <hi>Ʋpon the question, Whether or no I did not sin in this action,</hi> in that I did then suppose that the persons abovesaid would there ex<g ref="char:EOLhyphen"/>ercise Religion, and might in reason conceive, and could not but think, That <hi>that</hi> principle that engaged them to dissent, would en<g ref="char:EOLhyphen"/>gage them, as they conceived occasion required, to preach their said dissenting Points</p>
+               <p>
+                  <hi>Or whether I had, or have</hi>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <pb n="3" facs="tcp:41090:2"/>
+               <p>
+                  <hi>First,</hi> I humbly desire to <hi>premise</hi> as followeth:</p>
+               <p>First, That the question was not (in our last debate) <hi>Whether weak brethren of the way that I own (viz.</hi> Consociation and Sub<g ref="char:EOLhyphen"/>ordination of Churches) <hi>do not take offence at what I have done; And what I ought now to do in reference thereunto,</hi> (though such a motion indeed at last was made, <hi>viz.</hi> to lay aside the question, and to put them out upon that account,) <hi>which I conceive I may not, until the point in question is cleared,</hi> lest I therein do against the Truth.</p>
+               <p>Secondly, Nor the question debated, or to be debated, was not, <hi>Whether</hi> they <hi>have there driven a design rather to advance those</hi> particular Points <hi>wherein they differ from us,</hi> then to advance the propagation of the Gospel unto all; and in special unto <hi>such</hi> who through weakness and prejudice (as I conceive, like that which was in those of the Circumcision towards those of the uncircumcision) are not so likely to receive it from others <hi>(peradventure more able)</hi> as from such as themselves.</p>
+               <p>The former of which, if they shall appear to do, <hi>and resolve to prosecute,</hi> (the contrary whereof yet appeared those three, four, or five times that I heard them,) <hi>I shall then hold my self bound to out them.</hi>
+               </p>
+               <p>Thirdly, Nor the question was not; <hi>how far they miscarried in admitting a dispute with a notable corrupt disturber,</hi> who thrust in among them, and necessitated them (as they conceive) to prove by Arguments <hi>the Divinity <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f the Scriptures,</hi> which he would not grant, but most finfully denyed it: <hi>by which publique account of theirs,</hi> they say, they procured their future quiet from the disturber, and no small satisfaction to the better affected.</p>
+               <p>But although this gave me some satisfaction; <hi>yet I shall desire them</hi> to give it more full and large to the satisfaction of <hi>all;</hi> and I hereby promise, that if they shall <hi>willingly</hi> admit any Disputes of that nature, not being <hi>forced thereunto</hi> (to avoyd sinful silence) I shall then hold my self engaged to out them.</p>
+               <p>Fourthly, Nor the question was not, <hi>Whether I might let them a room for the end, and be furthering to them in the means of pro<g ref="char:EOLhyphen"/>pagating of Errors,</hi> it being out of question I may not.</p>
+               <p>Fifthly, <hi>Nor whether I might do as much for Error, as I might do for Truth;</hi> seeing I may do nothing for Error, but all for Truth.</p>
+               <pb n="4" facs="tcp:41090:3"/>
+               <p>But the question being at the first, <hi>as is above set forth,</hi> I prepa<g ref="char:EOLhyphen"/>red and presented an Answer in writing <hi>in substance,</hi> as followeth in <hi>page</hi> 7. wherein I conceive is abundantly proved, that we <hi>not only may,</hi> but <hi>ought</hi> to <hi>receive, own, encourage, commend,</hi> and <hi>praise God for;</hi> and sure then may give Toleration, or let an house for money unto <hi>such persons</hi> or societies whose judgment and practise <hi>are in the main answerable to the Fundamentals of Chri<g ref="char:EOLhyphen"/>stian Faith and Practise:</hi> Although erronious in part, both in Do<g ref="char:EOLhyphen"/>ctrine and Discipline, both in Judgment and Practise.</p>
+               <p>But after some debate upon some particulars, concerning <hi>owning; receiving,</hi> and <hi>countenancing Christians,</hi> erring both in <hi>Doctrine</hi> and <hi>Discipline,</hi> we at the last arrived at <hi>this Issue;</hi> and this was given in by my greatly honoured <hi>Christian Friends</hi> for the state of the question, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Whether in doing as above</hi> I did not clearly do all I did <hi>in com<g ref="char:EOLhyphen"/>pliance with them</hi> for the propagation of Error, <hi>which they affirm<g ref="char:EOLhyphen"/>ed I did;</hi> for that (besides what is above expressed) <hi>say they,</hi> These men carryed all the truth <hi>they have</hi> with them, when they went out <hi>from us,</hi> (which is our glory,) and have no need to leave <hi>us</hi> and our <hi>Congregation</hi> for Truths sake, <hi>but for Errors sake,</hi> and had no need to hire a room <hi>of you</hi> for <hi>Truths sake,</hi> nor for the propaga<g ref="char:EOLhyphen"/>tion of <hi>Truth,</hi> which is sufficiently maintained and held out among <hi>us,</hi> but only for their Error, which occasioned them to leave our Assemblies; and <hi>consequently</hi> for <hi>that only,</hi> and to countenance and further them in <hi>that</hi> (say they) have you let them a room, <hi>what ever you intended.</hi>
+               </p>
+               <p>And so indeed this action of mine being clearly of the nature of <hi>Toleration,</hi> for without my sufferance <hi>they could not come in,</hi> nor continue there.</p>
+               <p>The question <hi>now is,</hi> Whether in admitting and suffering them there, I do not properly suffer, <hi>tolerate,</hi> and <hi>countenance</hi> them <hi>in the propagation of Error,</hi> (which I do, if they assert truly) <hi>from which thou O Lord deliver thy poor servant.</hi>
+               </p>
+               <p>Unto which I answer.</p>
+               <p>First, As my much Reverend Friends have stated the question, <hi>their conclusion thereupon</hi> falls as foul upon our godly Independent Brethren <hi>(agreed by themselves to be tolerated)</hi> or any other dis<g ref="char:EOLhyphen"/>senters, <hi>as it doth upon these;</hi> and denies <hi>all Toleration whatsoe<g ref="char:EOLhyphen"/>ver.</hi> But,</p>
+               <pb n="5" facs="tcp:41090:3"/>
+               <p>Secondly, The <hi>foundation</hi> of their Argument, <hi>upon which they build, is indeed an Error (then</hi> by them propagated) as may thus appear.</p>
+               <p n="1">1. If by <hi>us</hi> you mean all Christians in our <hi>English Ʋniverse,</hi> then ye say nothing, for in that sence they are of you still, <hi>and you of them,</hi> and are <hi>vertually one,</hi> though formally divided: <hi>In that sence</hi> they as well may say it of you, as you of them.</p>
+               <p>But by <hi>us,</hi> I suppose ye mean <hi>us,</hi> as reformed and <hi>Presbyterian.</hi> For as <hi>unreformed</hi> ye cannot say it, <hi>ye know how much Error ye have cast out:</hi> And as <hi>reformed</hi> you and <hi>all</hi> men know, <hi>they</hi> had not <hi>all from us,</hi> rather we from them, <hi>some of our Reformation:</hi> As for <hi>Episcopacy</hi> and <hi>stinted Liturgy,</hi> and some <hi>other Errors</hi> ye know <hi>these</hi> and <hi>others,</hi> upon whom <hi>your assertion falls alike foul,</hi> cast off and <hi>damned them;</hi> and even to persecution <hi>asserted the contrary truth,</hi> before ever any of <hi>our</hi> Assemblies durst appear in it. You know <hi>these</hi> and <hi>those</hi> helped well to break the <hi>ice</hi> in <hi>England for us,</hi> and were of the <hi>forwardest;</hi> and this is as evident as the day. <hi>I'le not hold a candle to the Sun:</hi> I'le only <hi>remember you,</hi> that it's not very strange that such should a little <hi>over-do.</hi>
+               </p>
+               <p n="2">2. Can our <hi>Presbyterian Reformers</hi> assert our <hi>Reformation</hi> so perfect, as that we have <hi>all</hi> truth now held, and <hi>published among us,</hi> and that <hi>sufficiently,</hi> and no error with it; In truth I am not so perswaded:</p>
+               <p>But that our <hi>way is as the light that shineth more and more, &amp;c.</hi> And that we yet <hi>retain some errors,</hi> even in <hi>some particulars,</hi> wherein <hi>these Brethren</hi> differ with us.</p>
+               <p n="3">3. But had we as much of Truth as <hi>James,</hi> and <hi>Paul,</hi> and <hi>all the Elders,</hi> Acts 21.17, 18, 20, 25. with <hi>all the Churches</hi> of the <hi>uncir<g ref="char:EOLhyphen"/>cumcision,</hi> with whom they held Truth against the Errors of those of the <hi>Circumcision,</hi> Acts 15. and <hi>Gal.</hi> 2. <hi>&amp;</hi> 3. Chap. Yet, <hi>have we publishers</hi> in such abundance? that we should <hi>forbid,</hi> and <hi>not tole<g ref="char:EOLhyphen"/>rate,</hi> or at least not further <hi>our brethren</hi> that hold and publish truth <hi>(in the main)</hi> together <hi>with us,</hi> although erronious in part <hi>(as those of the Circumcision were.)</hi> Or may we not (with <hi>Paul, Phil.</hi> 1.18.) <hi>rejoyce that Christ is preached</hi> by such as are <hi>sincere and faithful,</hi> though in part erroneous, <hi>as none will imagine but those pretenders</hi> (and peradventure those that preached out of love also) <hi>were,</hi> who preached in opposition to <hi>Paul,</hi> and <hi>other good
+<pb n="6" facs="tcp:41090:4"/>Preachers,</hi> Vers. 12. <hi>to</hi> 18. <hi>Are not our faithful Publishers few?</hi> and is not scarcity our great and grounded complaint?</p>
+               <p>But suppose we held as much of Truth, <hi>which I believe none will assert;</hi> and our Publishers were as <hi>many,</hi> as <hi>able, active</hi> and <hi>faith<g ref="char:EOLhyphen"/>ful</hi> as theirs at that time, <hi>Acts</hi> 15. <hi>&amp;</hi> 21. Chap: <hi>yet your infer<g ref="char:EOLhyphen"/>ence holds not,</hi> nor would it follow that my sufferance of them is a furtherance <hi>of,</hi> or a doing any thing <hi>for</hi> Error, <hi>no more</hi> then in the case of the <hi>tares,</hi> Mat. 13. <hi>lest ye pluck up the good corn also.</hi>
+               </p>
+               <p>Nor that my countenancing <hi>them,</hi> and accommodating their oc<g ref="char:EOLhyphen"/>casions with a room <hi>is a countenancing and furthering of Error:</hi> Or that I did or do any thing <hi>properly</hi> for <hi>Error;</hi> much less will it follow, that their only occasion is <hi>for Error;</hi> nor that <hi>that occa<g ref="char:EOLhyphen"/>sion only</hi> they seek to supply; nor that I, concurring with them, <hi>do serve.</hi>
+               </p>
+               <p>As <hi>for certain it will not follow,</hi> That <hi>James, Paul,</hi> and the <hi>El<g ref="char:EOLhyphen"/>ders (Acts</hi> 21.) did countenance and further <hi>Error,</hi> or do any thing <hi>properly for Error,</hi> or for Errors sake. In their giving sufferance of room and place, <hi>without imputing sin, to the sufferers</hi> (as ye do to me) and <hi>not only so,</hi> but <hi>countenance</hi> and <hi>good esteem</hi> unto the <hi>suf<g ref="char:EOLhyphen"/>fered;</hi> yea, and did <hi>that;</hi> for the <hi>obtaining</hi> and <hi>continuance</hi> of their <hi>good opinion, love</hi> and <hi>concord,</hi> and their approbation of the <hi>Elders</hi> in the <hi>receiving</hi> of <hi>Paul,</hi> which they neither <hi>would</hi> nor <hi>ought to have done,</hi> but in condescension to those <hi>weak brethren of the Cir<g ref="char:EOLhyphen"/>cumcision;</hi> erroneous <hi>as well</hi> in point of <hi>Seperation,</hi> Gal. 2. <hi>as</hi> a<g ref="char:EOLhyphen"/>mong other legal points, in <hi>Circumcision also,</hi> which answereth to <hi>Baptism;</hi> wherein they were too stiff in their mis-understanding, <hi>as these,</hi> and peradventure <hi>our selves</hi> are too prone to be.</p>
+               <p>And for <hi>certain</hi> it will not follow, <hi>that our blessed Saviour</hi> did further them in the <hi>means,</hi> or advance the <hi>end</hi> of propagation of <hi>Error,</hi> in giving his countenance and commission <hi>to those</hi> whom he knew for the present <hi>to be erronious,</hi> and that in the <hi>great doctrine</hi> of <hi>Christ crucified,</hi> and otherways <hi>also,</hi> as <hi>Mat.</hi> 16.22, 23. <hi>Luk.</hi> 9.22, 44, 45. <hi>&amp;</hi> 17.25. compared with <hi>Luk.</hi> 24, 20, 21. and as <hi>Mark</hi> 9.38. and <hi>Acts</hi> 1.6. nor in giving <hi>field room</hi> to the <hi>tares</hi> for the <hi>good corns sake,</hi> and commanding that they should <hi>not be pulled up,</hi> least they should <hi>pluck up the good corn also,</hi> as a<g ref="char:EOLhyphen"/>bove.</p>
+               <p>It is health and nourishment I feed and advance in feeding and
+<pb n="7" facs="tcp:41090:4"/>accommodating a diseased man; but intend not to feed his disease <hi>So here,</hi> and so in <hi>Mat.</hi> 13.28, 29.</p>
+               <p>The ensuing Arguments are in substance the same which I presented in writing the time before mentioned, <bibl>
+                     <hi>pag. 4.</hi>
+                  </bibl>
+               </p>
+               <p>The Crime charged before that, being; that I received them to house, and countenancing or furthering them, <hi>as above, I transgressed the Rule,</hi>
+                  <bibl>
+                     <hi>2</hi> Joh. <hi>10.</hi>
+                  </bibl>
+               </p>
+               <p n="1">1. <hi>Whoso is strong, ought to bear the infirmities of the weak,</hi> and to <hi>receive one another according to Christ Jesus,</hi> Rev. 15.1, 7. whom inistred to persons and societies of the <hi>Circumcision,</hi> as well as of the <hi>uncircumcision,</hi> Vers. 8, 9. <hi>to</hi> 12. So did his Apostles, <hi>Acts</hi> 10.15. and 21 Chap. <hi>though so divided</hi> about <hi>meats</hi> and <hi>days,</hi> Rom. 14. and about <hi>Circumcision,</hi> Acts 15. and other Legallities, <hi>Acts</hi> 21. Unto <hi>all which,</hi> and all other <hi>externals in Religion,</hi> the Apostle <hi>opposes</hi> the <hi>new creature,</hi> Gal. 6.15. <hi>Faith working by love,</hi> Gal. 5.6. and <hi>Righteousness, Peace and Joy in the Holy Ghost,</hi> Rom. 14.17, 18. <hi>Phil.</hi> 3.3. and therefore presseth a <hi>pursuance of peace,</hi> and <hi>such holy edifying,</hi> Vers. 19. and to avoyd <hi>censuring of one an<g ref="char:EOLhyphen"/>other,</hi> Vers. 13. and <hi>that with one mind, and one mouth,</hi> (that differ<g ref="char:EOLhyphen"/>ence notwithstanding) they should <hi>glorifie God,</hi> Chap. 15.6. and <hi>receive one another, as Christ received us to the glory of God,</hi> Vers. 7.</p>
+               <p>But <hi>Christ Jesus</hi> received us, <hi>whiles as bad as those in question, (or our selves now are)</hi> to <hi>Ʋnion</hi> and <hi>Communion</hi> with <hi>himself,</hi> and with his <hi>Saints;</hi> which is the <hi>greater</hi> grace, countenance and accommodation; and <hi>includes the less,</hi> (of Civil or Moral.)</p>
+               <p>
+                  <hi>Ergo, we</hi> and <hi>they</hi> are bound, not only to acknowledg <hi>Ʋnion,</hi> and to receive one another to <hi>Civil</hi> and <hi>Moral Communion,</hi> grace, countenance and accommodation, <hi>which is the less,</hi> but also to <hi>the most sacred,</hi> which is the greater.</p>
+               <p>If therefore <hi>it be our sin,</hi> thus against our duty to <hi>cry,</hi> and endea<g ref="char:EOLhyphen"/>vor to <hi>argue down</hi> the less, <hi>which we are bound to give to persons or societies, for Moral or Civil ends, (they being such in the main)</hi> how much greater is <hi>our</hi> and <hi>their sin,</hi> in arguing and acting <hi>as we do,</hi> in opposition to the <hi>religious part</hi> of our duty, <hi>which is so much the greater,</hi> and includes the less.</p>
+               <pb n="8" facs="tcp:41090:5"/>
+               <p>
+                  <hi>Argum.</hi> 2. Every company of true Believers, in any place <hi>assem<g ref="char:EOLhyphen"/>bled in Christs Name,</hi> have his presence, <hi>Mat.</hi> 18.20. <hi>to record his Name, and bless them,</hi> Exod. 20.24. <hi>are the Temple of God,</hi> and have <hi>his Spirit,</hi> 1 <hi>Cor.</hi> 3.16. considered with the whole Chapter.</p>
+               <p>
+                  <hi>Therefore</hi> to <hi>receive such,</hi> and give them sufferance, <hi>place</hi> and <hi>countenance,</hi> is to receive <hi>Jesus Christ,</hi> Mat. 10.40.</p>
+               <p>
+                  <hi>Argum.</hi> 3. It is our duty <hi>to walk together,</hi> or <hi>by the same Rule;</hi> so far as we are come, or <hi>in that whereunto we have attained,</hi> waiting till <hi>God shall reveal</hi> that wherein we differ, <hi>Phil.</hi> 3.16, 15.</p>
+               <p>
+                  <hi>Therefore</hi> it's our duty to further <hi>all</hi> in <hi>all such walking:</hi>
+               </p>
+               <p>But <hi>we</hi> &amp; <hi>they</hi> are come <hi>thus far,</hi> as to agree in <hi>Fundamentals,</hi> and to <hi>resolve</hi> and endeavor to <hi>propagate</hi> unto <hi>all,</hi> those <hi>Fundamentals of the Faith of Jesus Christ;</hi> and although too too much divided (and apart from each other, yet) <hi>in Assemblies of Saints</hi> publiquely to <hi>edifie Believers in that Faith.</hi>
+               </p>
+               <p>Therefore it is our duty <hi>as to walk with thes herein,</hi> waiting till <hi>God shall reveal</hi> that wherein we differ; <hi>so also</hi> to <hi>further</hi> them in the <hi>means</hi> to that <hi>end;</hi> which cannot be (as <hi>their judg<g ref="char:EOLhyphen"/>ments</hi> and <hi>ours</hi> yet stand <hi>corrupted herein</hi>) without room apart from each other.</p>
+               <p n="4">IV. We are to <hi>walk</hi> as we have <hi>holy Paul for an ensample, Phil.</hi> 3.17. whose conversation <hi>vers.</hi> 20. was according to his do<g ref="char:EOLhyphen"/>ctrine, <hi>Gal.</hi> 5.6. and 6.15. <hi>Rom.</hi> 14.16. <hi>Phil.</hi> 3.3. <hi>viz.</hi> slighting all <hi>externals</hi> and <hi>formalities</hi> in <hi>Religion,</hi> in comparison with the <hi>essentials;</hi> and who <hi>owned, countenanced,</hi> and <hi>furthered</hi> with all accommodations <hi>(within his power)</hi> all that were sound in the Es<g ref="char:EOLhyphen"/>sentials, 1 <hi>Cor.</hi> 9.19, 20, 22.</p>
+               <p n="5">V. Saint <hi>Paul rejoyced</hi> when Christ was preached, <hi>Phil.</hi> 1.18. although in opposition to <hi>Paul,</hi> and other good Preachers.</p>
+               <p>But Christ is preached by these.</p>
+               <p>
+                  <hi>Therefore</hi>
+               </p>
+               <p n="6">VI. Our Saviour, <hi>Mark</hi> 9.39. reproves those that discouraged such as <hi>acted in Christs Name,</hi> for refusing formally to be of <hi>their Company,</hi> Vers. 38.</p>
+               <p>And his reason was, because <hi>such</hi> could not likely speak evil of him, but on his part.</p>
+               <p>And who so shall do any thing for Christ as for him, must be re<g ref="char:EOLhyphen"/>warded, Vers. 39, 40, 41. <hi>(and can our reward be less then suffer<g ref="char:EOLhyphen"/>ance</hi>
+                  <gap reason="missing" extent="1+ pages">
+                     <desc>〈1+ pages missing〉</desc>
+                  </gap>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
